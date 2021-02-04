@@ -1,2 +1,3 @@
 # hellow-world
-just another repository
+Hellow Humans!
+Omkar here,I like coosding.
